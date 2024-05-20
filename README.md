@@ -4,6 +4,8 @@ Youtube tutorial: https://www.youtube.com/watch?v=v6TPcU23wP8&ab_channel=WebDevE
 
 Great reference repo for using NextJS's Next Auth in an App Router structure.
 
+Using this repository for learning, testing functionality, and more with Next.js, authentication, etc.
+
 Use:
 - Nextjs
 - Next Auth
