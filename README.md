@@ -1,3 +1,18 @@
+## Notes during Development:
+Completed the basic implementation of next auth with basic email / password login, logout, protected routes, and a Postgresql database with Vercel.
+Youtube tutorial: https://www.youtube.com/watch?v=v6TPcU23wP8&ab_channel=WebDevEducation
+
+Great reference repo for using NextJS's Next Auth in an App Router structure.
+
+Use:
+-Nextjs
+-Next Auth
+-Vercel
+-Postgres db
+-Email/Password credentials
+-Protected Routes
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
